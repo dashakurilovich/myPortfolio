@@ -1,0 +1,30 @@
+
+.wrapContacts{
+    height: 100vh;
+    background-color: rgb(251, 245, 235);
+}
+.myContactsConteiner{
+    flex-direction: column;
+    justify-content: space-around ;
+}
+.title {
+    background-color: rgb(255, 183, 249);
+}
+.shape{
+    width: 40vh;
+    height: 50vh;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.input {
+    margin: 5px;
+}
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
